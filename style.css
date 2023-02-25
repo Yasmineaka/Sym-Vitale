@@ -119,13 +119,13 @@ p{
     width: 90px;
     left: 500px;
 }
-.partenaires1{
+.partenaires2{
     position: relative;
     height: 400px;
     width: 30%;
     border: 1px solid rgb(128, 0, 0, 0.508);
     margin-left: 15px;
-    top: 50px;
+    top: 120px;
     border-radius: 20px;
     margin-left: 12px;
 }
